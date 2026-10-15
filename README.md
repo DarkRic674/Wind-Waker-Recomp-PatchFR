@@ -10,7 +10,9 @@ Ce fork de **Zelda: Wind Waker Recomp** permet d'extraire la traduction françai
 L'objectif est de conserver la **signature de la ROM US GZLE01**, nécessaire au bon fonctionnement de **Wind Waker Recomp**, tout en profitant de la majorité des textes de la version française.
 
 Ceci est une version modifiée du projet d'origine faite par [Zoria](https://github.com/THZoria/Wind-Waker-Recomp-PatchFR).
+
 En effet, la version d'origine donner une erreur "Error: Not enough GameCube disc space for French resources".
+
 Cette version corrige ce bug.
 
 ## État de la traduction
