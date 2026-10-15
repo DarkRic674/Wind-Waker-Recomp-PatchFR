@@ -53,6 +53,8 @@ Le script utilise :
 2. L'image PAL **GZLP01** comme source pour récupérer la traduction française.
 3. `WindWaker-FR.iso` comme fichier de sortie.
 
+> **Note :** assurez-vous d'avoir le fichier prepare.py dans le même dossier que le fichier pal_french.py.
+
 ### Utiliser un fichier BMG spécifique
 
 Il est également possible d'indiquer manuellement le fichier BMG PAL à utiliser avec l'option `--pal-bmg` :
@@ -62,6 +64,8 @@ python scripts/pal_french.py "C:\chemin\USA.iso" "C:\chemin\PAL.iso" "C:\chemin\
 ```
 
 Remplacez `zel_XX.bmg` par le fichier BMG souhaité.
+
+> **Note :** assurez-vous d'avoir le fichier prepare.py dans le même dossier que le fichier pal_french.py.
 
 ## Résultat
 
